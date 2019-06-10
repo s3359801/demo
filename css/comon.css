@@ -1,0 +1,284 @@
+.container{
+    width:1228px;
+    margin:0 auto;
+}
+
+#top{
+    height:40px;
+    background: #333333;
+}
+.t_left {
+    float: left;
+    position: relative;
+}
+.t_left li{
+    float: left;
+
+}
+.t_left .app{
+    position: absolute;
+    top:40px;
+    left:617px;
+    width:120px;
+    height:150px;
+    box-shadow: rgb(170, 170, 170) 0px 1px 5px;
+    z-index: 10;
+    background: #fff;
+}
+
+
+.t_left li a{
+    color:#b0b0b0;
+    line-height: 40px;
+
+}
+.t_left ul li:nth-of-type(11) em{
+    width:0;
+    height:0;
+    border-bottom: 10px solid #fff;
+    border-left: 10px solid transparent;
+    border-right: 10px solid transparent;
+    position: absolute;
+    top:30px;
+    left:663px;
+    display: none;
+}
+.app{
+    display: none;
+}
+.t_left ul li:nth-of-type(11):hover .app{
+    display: block;
+    background: #fff;
+
+}
+.t_left ul li:nth-of-type(11):hover em{
+    display: block;
+
+}
+.t_left li a:hover{
+    color:#fff;
+}
+
+
+.t_left li i{
+    margin:0 7px 0 7px;
+    color:#3b423b;
+}
+.t_right {
+    float: right;
+}
+.t_right li{
+    float: left;
+    line-height: 40px;
+}
+
+
+
+.t_right li a{
+    color:#b0b0b0;
+    line-height: 40px;
+
+}
+
+.t_right li a:hover{
+    color:#fff;
+}
+
+
+.t_right li i{
+    margin:0 7px 0 7px;
+    color:#3b423b;
+}
+.t_right li:nth-of-type(3){
+    margin-right:8px;
+}
+
+.t_right li:nth-of-type(4){
+    background:#424242;
+    width: 120px;
+    height: 40px;
+    color:#b0b0b0;
+    text-align: center;
+    
+}
+.t_right li:nth-of-type(4):hover{
+    background: #fff;
+    
+    
+}
+.t_right li:nth-of-type(4):hover {
+    color:red;
+}
+.t_right li:nth-of-type(4):hover .icon-buoumaotubiao03{
+    color:red;
+}
+.t_right li .icon-buoumaotubiao03{
+    color:#b0b0b0;
+}
+.t_right li:nth-of-type(4) .cart{
+     display:inline-block;
+     width:300px;
+     height:100px;
+     position: absolute;
+     left:1105px;
+     top:40px;   
+     box-shadow: rgb(170, 170, 170) 0px 1px 5px;
+     color:#888;
+     line-height: 100px;
+     text-align: center;
+     display: none;
+     z-index: 10;
+     background: #fff;
+}
+.t_right li:nth-of-type(4):hover .cart{
+    display: block;
+}
+#header {
+    height: 100px;
+    background: #fff;
+    position: relative;
+}
+.h_inner {
+    height:100px;
+    background: #fff;
+}
+.logo {
+    float: left;
+}
+.logo  .logoa{
+    display: block;
+    margin-top:20px;
+}
+
+.nav {
+    float: left;
+    margin-left: 179px;
+    
+}
+.nav ul li{
+    float: left;
+   
+}
+.nav ul li .nav_a{
+    color:#333333;
+    font-size: 16px;
+    padding:28px 10px 0 10px;
+    line-height: 100px;
+}
+.nav ul li:hover .nav_a{
+    color:red;
+}
+
+.mi{
+    width:100%;
+    height:220px;
+    box-shadow: rgb(170, 170, 170) 0px 1px 5px;
+    position: absolute;
+    top:100px;
+    left:0;
+    display: none;
+    z-index: 10;
+    background: #fff;
+}
+.miphone {
+    height: 220px;
+    
+
+}
+.miphone ul li{
+    float: left;
+    line-height: 10px;
+    text-align: center;
+}
+.miphone ul li strong{
+    display: block;
+    color:#333333;
+    font-size: 12px;
+    line-height: 30px;
+    padding:0;
+}
+.miphone ul li span {
+    font-size: 10px;
+    color:red;
+}
+.miphone img{
+    width:160px;
+    height:110px;
+    padding:0 20px 0 20px;
+    border-right: 1px solid #ccc;
+    margin-top:40px;
+}
+.miphone li:nth-of-type(6) img{
+    border-right: none;
+}
+.search {
+    float: right;
+    margin-right:50px;
+}
+.search form{
+    margin-top:25px;
+    position: relative;
+}
+.search form:hover .txt{
+    border:1px solid #b0b0b0;
+    border-right: none;
+}
+.search form:hover .sub{
+    border:1px solid #b0b0b0;
+}
+
+.search .txt {
+    border: 0;
+    width: 242px;
+    height:50px;
+    border:1px solid #ccc;
+    border-right:none;
+    box-sizing:border-box;
+    padding:0 15px 0 15px;
+    color: #b0b0b0;
+}
+.search .sub {
+    border: 0;
+    width: 50px;
+    height:50px;
+    border:1px solid #ccc;
+    background: #fff;
+    margin-left:-4px;
+    position: absolute;
+    top:0;
+    right: -50px;
+
+}
+.search .sub:hover{
+    background: #ff6700;
+    color:#fff;
+    border:0;    
+}
+.search .search1{
+    display: inline-block;
+    position: absolute;
+    background: #eeeeee;
+    padding:5px;
+    left:122px;
+    top:12px;
+    cursor: pointer;
+}
+.search .search1:hover{
+    background: #ff6700;
+    color:#fff;
+
+}
+.search .search2{
+    display: inline-block;
+    position: absolute;
+    background: #eeeeee;
+    padding:5px;
+    left:171px;
+    top:12px;
+    cursor: pointer;
+}
+.search .search2:hover{
+    background: #ff6700;
+    color:#fff;
+
+}

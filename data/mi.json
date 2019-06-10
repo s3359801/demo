@@ -1,0 +1,10 @@
+[
+	{"shopName":"小米9 ","shopIntroduce":"骁龙855，索尼4800万超广角微距三摄","shopIPv":["全网通版","移动版4G+"],"imgurl":"images/second1.jpg","RAM":["4GB","6GB","8GB"],"color":["全息幻彩紫","全息幻彩蓝","深空灰"],"RAMsize":["64GB","128GB","256GB"],"price":["2999元","3299元","3999元"],"code":"phone1"},
+	{"shopName":"小米9SE ","shopIntroduce":"索尼4800万超广角三摄，骁龙712","shopIPv":["全网通版","移动版4G+"],"imgurl":"images/second2.jpg","RAM":["4GB","6GB","8GB"],"color":["全息幻彩紫","全息幻彩蓝","深空灰"],"RAMsize":["64GB","128GB","256GB"],"price":["1999元","2299元","2499元"],"code":"phone2"},
+	{"shopName":"Redmi Note 7","shopIntroduce":"4800万拍照千元机，18个月超长质保","shopIPv":["全网通版","移动版4G+"],"imgurl":"images/second3.jpg","RAM":["4GB","6GB","8GB"],"color":["梦幻蓝","暮光金","亮黑色"],"RAMsize":["64GB","128GB","256GB"],"price":["999元","1199元","1399元","1499元"],"code":"phone3"},
+	{"shopName":"小米play ","shopIntroduce":"“5.84”小水滴全面屏，后置1200万AI双...","shopIPv":["全网通版","移动版4G+"],"imgurl":"images/second4.png","RAM":["4GB","6GB","8GB"],"color":["梦幻蓝","暮光金","黑色"],"RAMsize":["64GB","128GB","256GB"],"price":["1099元"],"code":"phone4"},
+	{"shopName":"小米play ","shopIntroduce":"“5.84”小水滴全面屏，后置1200万AI双...","shopIPv":["全网通版","移动版4G+"],"imgurl":"images/second4.png","RAM":["4GB","6GB","8GB"],"color":["梦幻蓝","暮光金","黑色"],"RAMsize":["64GB","128GB","256GB"],"price":["1099元"],"code":"phone4"},
+	{"shopName":"小米play ","shopIntroduce":"“5.84”小水滴全面屏，后置1200万AI双...","shopIPv":["全网通版","移动版4G+"],"imgurl":"images/second4.png","RAM":["4GB","6GB","8GB"],"color":["梦幻蓝","暮光金","黑色"],"RAMsize":["64GB","128GB","256GB"],"price":["1099元"],"code":"phone4"},
+	{"shopName":"小米play ","shopIntroduce":"“5.84”小水滴全面屏，后置1200万AI双...","shopIPv":["全网通版","移动版4G+"],"imgurl":"images/second4.png","RAM":["4GB","6GB","8GB"],"color":["梦幻蓝","暮光金","黑色"],"RAMsize":["64GB","128GB","256GB"],"price":["1099元"],"code":"phone4"},
+	{"shopName":"小米play ","shopIntroduce":"“5.84”小水滴全面屏，后置1200万AI双...","shopIPv":["全网通版","移动版4G+"],"imgurl":"images/second4.png","RAM":["4GB","6GB","8GB"],"color":["梦幻蓝","暮光金","黑色"],"RAMsize":["64GB","128GB","256GB"],"price":["1099元"],"code":"phone4"}
+]
